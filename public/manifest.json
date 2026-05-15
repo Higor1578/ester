@@ -1,0 +1,16 @@
+﻿{
+  "name": "Ester Beauty",
+  "short_name": "Ester",
+  "description": "App de agendamento de manicure e salão premium.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#020617",
+  "theme_color": "#7c3aed",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "type": "image/svg+xml",
+      "sizes": "any"
+    }
+  ]
+}
